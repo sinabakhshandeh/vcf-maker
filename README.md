@@ -1,2 +1,2 @@
-# vcf-maker
+# .vcf Builder
 make a .vcf from dataframes
