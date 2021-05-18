@@ -1,2 +1,2 @@
-# .vcf Builder
-make a .vcf from dataframes
+# .vcf Maker
+make a .vcf from Pandas dataframe.
